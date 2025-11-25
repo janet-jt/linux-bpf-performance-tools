@@ -1,2 +1,2 @@
-# linux-bpf-performance-tools
-A hands-on learning repository that follows the book "BPF Performance Tools" to develop and implement practical BPF performance tools for Linux system and application observability.
+# linux-ebpf
+A hands-on learning repository that follows the book series "The Complete eBPF Developer's Library" to develop and implement practical ebpf application for Linux system and application observability.
