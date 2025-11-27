@@ -1,0 +1,1 @@
+clang -target bpf -I -O2 -g -c xdp_drop.c -o xdp_drop
